@@ -1,6 +1,6 @@
 from random import randint
 rn_min = 1
-rn_max = 10
+rn_max = 100
 turns = 10
 rn = randint(rn_min,rn_max)
 
